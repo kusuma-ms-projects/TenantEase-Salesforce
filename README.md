@@ -57,14 +57,13 @@ Created the Salesforce data model from scratch using Schema Builder, defining cu
 **1. Rental Management Schema**
 
 Includes the Tenant, Rental Agreement and Contact objects and their relationships.
-
-![Rental Management Schema](screenshots/rental-management-schema.png)
+rental_management_schema.png
 
 **2. Statement and Payment Schema**
 
 Includes the Statement and Payment objects and their relationships.
 
-![Statement and Payment Schema](screenshots/statement-payment-schema.png)
+statement_payment_schema.png
 
 ### Payment Integration – Execution Demo
 
@@ -76,6 +75,13 @@ The video demonstrates the Salesforce and Authorize.Net Sandbox payment integrat
 - Processing a successful sandbox payment.
 - Receiving the payment confirmation email.
 
-**Video Demonstration:** [Watch Payment Integration Demo](ADD_YOUR_VIDEO_LINK_HERE)
+**Video Demonstration:** [Download and Watch Payment Integration Demo](TenantEase_Payment_Processing.mp4)
+Note: GitHub may not preview the video directly, so download the file to watch the complete demonstration, including successful payment processing and email confirmation.
 
 Continuous learning, building and exploring!
+
+
+
+
+
+
