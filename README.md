@@ -59,7 +59,7 @@ Screenshots of the Salesforce application and payment integration will be added 
 
 **Learning and Implementation Journey**
 
-Only custom object creation is covered in Dipika's YouTube playlist. Although the first video's overview gives the impression that the complete project is covered, the remaining implementation is not covered in the playlist.
+Only custom object creation is covered in Dipika's YouTube playlist. The first video's overview gives the impression that the complete project is covered, the remaining implementation is not covered in the playlist.
 
 I explored the remaining implementation using Salesforce documentation, ChatGPT, Claude and other learning resources. 
 
