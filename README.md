@@ -2,9 +2,9 @@
 
 **Project Overview**
 
-TenantEase is a Salesforce-based application designed to manage rental units, rental agreements, statements and tenant payments.
+TenantEase is a Salesforce-based application designed to help property managers manage rental units, tenant information, rental agreements, statements and tenant payments.
 
-The project explores how Salesforce can be used to organise rental property information and manage related records through custom objects, relationships and backend development.
+The project demonstrates how Salesforce can be used to organize rental information and manage related records through custom objects, relationships and backend development, along with tenant payment processing through Authorize.Net
 
 **Technologies Used**
 
@@ -41,12 +41,12 @@ The project explores how Salesforce can be used to organise rental property info
 - Successfully completed a sandbox payment test and received an email confirmation.
 
 **Payment Flow**
-1. User opens the Salesforce payment page.
+1. The property manager initiates the payment process through the Salesforce payment page.
 2. Salesforce requests a hosted payment token through Apex.
 3. Authorize.Net generates the hosted checkout form.
-4. User enters sandbox payment details.
-5. Payment is processed in the sandbox environment.
-6. An email confirmation is received after successful testing.
+4. The tenant enters their payment details on the hosted checkout page.
+5. Authorize.Net processes the payment in the sandbox environment.
+6. An email confirmation is received after successful payment processing.
 
 ## Screenshots & Demo
 
@@ -76,7 +76,8 @@ The video demonstrates the Salesforce and Authorize.Net Sandbox payment integrat
 - Receiving the payment confirmation email.
 
 **Video Demonstration:** [Download and Watch Payment Integration Demo](TenantEase_Payment_Processing_and_Email_Confirmation.mp4)
-Note: GitHub may not preview the video directly, so download the file to watch the complete demonstration, including successful payment processing and email confirmation.
+
+**Note:** GitHub may not preview the video directly, so download the file to watch the complete demonstration, including successful payment processing and email confirmation.
 
 Continuous learning, building and exploring!
 
