@@ -57,16 +57,4 @@ Screenshots of the Salesforce application and payment integration will be added 
 - Authorize.Net Hosted Checkout
 - Payment Confirmation Email
 
-**Learning and Implementation Journey**
-
-Only custom object creation is covered in Dipika's YouTube playlist. The first video's overview gives the impression that the complete project is covered, the remaining implementation is not covered in the playlist.
-
-I explored the remaining implementation using Salesforce documentation, ChatGPT, Claude and other learning resources. 
-
-This project helped me gain practical exposure to Salesforce configuration, Apex development, Visualforce and third-party payment gateway integration.
-
-It also helped me understand how backend knowledge is useful even when working on UAT, particularly when communicating with development teams and investigating issues beyond the user interface.
-
-Feel free to reach out if you are exploring a similar project or get stuck along the way. Happy to share what I learned!
-
 Continuous learning, building and exploring!
