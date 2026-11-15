@@ -1,1 +1,5 @@
-
+git status
+git branch --show-current
+git rm screenshots
+git commit -m "Delete screenshots file"
+git push origin main
