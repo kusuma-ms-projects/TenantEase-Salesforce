@@ -75,7 +75,7 @@ The video demonstrates the Salesforce and Authorize.Net Sandbox payment integrat
 - Processing a successful sandbox payment.
 - Receiving the payment confirmation email.
 
-**Video Demonstration:** [Download and Watch Payment Integration Demo](TenantEase_Payment_Processing.mp4)
+**Video Demonstration:** Download and Watch Payment Integration Demo - TenantEase_Payment_Processing.mp4
 Note: GitHub may not preview the video directly, so download the file to watch the complete demonstration, including successful payment processing and email confirmation.
 
 Continuous learning, building and exploring!
