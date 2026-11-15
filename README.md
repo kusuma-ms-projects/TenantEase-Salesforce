@@ -57,7 +57,7 @@ Created the Salesforce data model from scratch using Schema Builder, defining cu
 **1. Rental Management Schema**
 
 Includes the Tenant, Rental Agreement and Contact objects and their relationships.
-![Rental Management Schema](rental_management_shema.PNG)
+![Rental Management Schema](rental_management_schema.PNG)
 
 **2. Statement and Payment Schema**
 
