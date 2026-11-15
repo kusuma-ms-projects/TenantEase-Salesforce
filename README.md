@@ -41,7 +41,7 @@ The project demonstrates how Salesforce can be used to organize rental informati
 - Successfully completed a sandbox payment test and received an email confirmation.
 
 **Payment Flow**
-1. The property manager initiates the payment process through the Salesforce payment page.
+1. The payment process is initiated through the Salesforce Visualforce page.
 2. Salesforce requests a hosted payment token through Apex.
 3. Authorize.Net generates the hosted checkout form.
 4. The tenant enters their payment details on the hosted checkout page.
