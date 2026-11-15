@@ -1,6 +1,7 @@
 **TenantEase – Property Rental Management System**
 
 **Project Overview**
+
 TenantEase is a Salesforce-based application designed to manage rental units, rental agreements, statements and tenant payments.
 
 The project explores how Salesforce can be used to organise rental property information and manage related records through custom objects, relationships and backend development.
@@ -47,14 +48,34 @@ The project explores how Salesforce can be used to organise rental property info
 5. Payment is processed in the sandbox environment.
 6. An email confirmation is received after successful testing.
 
-**Screenshots**
+## Screenshots & Demo
 
-Screenshots of the Salesforce application and payment integration will be added here.
+### Schema Builder
 
-- Schema Builder – Custom objects and relationships
-- Rental Unit Entry – Property details form
-- Visualforce Payment Page
-- Authorize.Net Hosted Checkout
-- Payment Confirmation Email
+Created the Salesforce data model from scratch using Schema Builder, defining custom objects and their relationships.
+
+**1. Rental Management Schema**
+
+Includes the Tenant, Rental Agreement and Contact objects and their relationships.
+
+![Rental Management Schema](screenshots/rental-management-schema.png)
+
+**2. Statement and Payment Schema**
+
+Includes the Statement and Payment objects and their relationships.
+
+![Statement and Payment Schema](screenshots/statement-payment-schema.png)
+
+### Payment Integration – Execution Demo
+
+The video demonstrates the Salesforce and Authorize.Net Sandbox payment integration, including:
+
+- Opening the Visualforce payment page.
+- Redirecting to the Authorize.Net hosted checkout.
+- Error handling when an invalid card number is entered.
+- Processing a successful sandbox payment.
+- Receiving the payment confirmation email.
+
+**Video Demonstration:** [Watch Payment Integration Demo](ADD_YOUR_VIDEO_LINK_HERE)
 
 Continuous learning, building and exploring!
